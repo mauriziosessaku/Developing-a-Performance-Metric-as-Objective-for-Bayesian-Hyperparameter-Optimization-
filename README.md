@@ -45,9 +45,6 @@ llm-naranjo-bo/
 ├── notebooks/
 │   ├── naranjo_bo_pipeline.ipynb    # metrics, GP & TPE optimization, all figures
 │   └── anisotropy_diagnostic.ipynb  # embedding anisotropy / whitening check
-├── manuscript/
-│   ├── Manuscript_tracked.docx
-│   └── Supplementary_Materials.docx
 └── figures/                         # exported result figures
 ```
 
