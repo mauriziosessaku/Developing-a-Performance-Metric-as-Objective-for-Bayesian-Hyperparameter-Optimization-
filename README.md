@@ -5,8 +5,6 @@
 Nicole Sonne Heckmann, Arnault-Quentin Vermillet, Gerard Ompad, Søren Norlin Mølgaard, Lars Melskens, Christina Tvermoes, Maurizio Sessa
 *Department of Drug Design and Pharmacology, University of Copenhagen · Novo Nordisk*
 
-> 🔗 **Project page (GitHub Pages):** enable Pages on this repo to serve `index.html`.
-
 This project investigates whether **inference-time temperature optimization** can improve a large language model's agreement with expert pharmacovigilance assessors on the **Naranjo causality algorithm**, applied to FDA Adverse Event Reporting System (FAERS) reports — and develops the Gaussian-Process–compatible performance metrics needed to make that optimization possible.
 
 ---
@@ -71,5 +69,3 @@ An OpenAI API key (GPT-5.2) is required to regenerate raw model outputs; the not
 - **Optimization** — GP surrogate (Matérn 5/2) + Probability of Improvement, cross-checked with a TPE sampler, over temperature ∈ [0, 2].
 
 ---
-
-*Replace `USERNAME` in any repository URL with your GitHub handle before publishing.*
